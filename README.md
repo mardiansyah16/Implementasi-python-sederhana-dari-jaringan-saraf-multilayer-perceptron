@@ -1,2 +1,2 @@
 # Implementasi-python-sederhana-dari-jaringan-saraf-multilayer-perceptron
-pengumpulan Tugas UAS
+pengumpulan Tugas UAS Kecerdasan buatan. 
